@@ -1,0 +1,20 @@
+
+<resources>
+    <string name="app_name" translatable="false">Vmusic</string>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="IniciarSesion">Iniciar Sesión</string>
+    <string name="Confirmar">Estas seguro de los datos?</string>
+    <string name="Username">Usuario:            </string>
+    <string name="Password">Contraseña:         </string>
+    <string name="RegistroCompletado">Usuario creado correctamente</string>
+    <string name="Genero">Genero</string>
+    <string name="Buscar">Buscar</string>
+    <string name="Welcome">Bienvenido de nuevo!</string>
+    <string name="Home">Inicio</string>
+    <string name="Tendencias">Tendencias</string>
+    <string name="Cerrar_sesion">Cerrar Sesion</string>
+    <string name="RegistroIncompleto">Debes de registarte antes de acceder</string>
+    <string name="Permiso_concedido" >Permiso concedido </string>
+    <string name="Camera_permision_granted" >Permiso de camara concedido </string>
+    <string name="Camera_permision_denied" >Permiso de camara denegado </string>
+</resources>
