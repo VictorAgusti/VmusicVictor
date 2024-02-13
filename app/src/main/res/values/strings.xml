@@ -38,5 +38,52 @@
     <string name="Camera_permision_denied">Camera Permission Denied </string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bad_credentials">Las credenciales no son correctas</string>
+    <string name="error_no_user_or_pass">Error, falta usuario o contraseña</string>
+    <string name="fragment_resetpass_title">Recuperar Contraseña</string>
+    <string name="hint_email_reset_pass">Correo de recuperación</string>
+    <string name="btn_send_mail">Enviar Correo</string>
+    <string name="btn_back_login">Cancelar</string>
+    <string name="fragment_register_title">Registrar Usuario</string>
+    <string name="hint_username">Nombre de usuario</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="hint_password2">Repetir Contraseña</string>
+    <string name="btn_register">Registrar Usuario</string>
+    <string name="msg_mail_sent">Email enviado</string>
+    <string name="error">Error en la recuperación</string>
+    <string name="error_no_email">No podemos enviar email</string>
+    <string name="error_no_same_pass">Las contraseñas no son iguales</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="register">Registrarse</string>
+    <string name="recover_password">Recuperar Contrseña</string>
+    <string name="chat">Chat</string>
+    <string name="character_name">Nombre personaje</string>
+    <string name="search_btn">Search</string>
+    <string name="message_error">Error in the message</string>
+    <string name="nombre_video">Nombre artista</string>
+    <string name="search">Buscar</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="chat_header">Chat</string>
+    <string name="cache_header">Cache</string>
+    <string name="offline_title">Switch off internet</string>
+    <string name="general_header">General</string>
+    <string name="vibrate_title">Vibrate on notifications</string>
+    <string name="settings_menu">Settings</string>
+    <string name="ChatColor">Chat color</string>
 
 </resources>

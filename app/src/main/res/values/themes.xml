@@ -15,4 +15,10 @@
         <item name="colorSurface">@color/secondary_red</item>
         <item name="colorOnSurface">@color/white</item>
     </style>
+
+    <style name="Base.Theme.SlashSplash" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimaryDark">@color/primary_beige</item>
+    </style>
 </resources>

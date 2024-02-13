@@ -9,4 +9,6 @@
     <color name="white">#FFFFFFFF</color>
     <color name ="primary_beige">#F2E4BB</color>
     <color name="secondary_red">#EC2A38</color>
+    <color name="recovery_blue">#03A9F4</color>
+
 </resources>
