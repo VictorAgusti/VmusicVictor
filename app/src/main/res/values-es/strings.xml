@@ -14,7 +14,4 @@
     <string name="Tendencias">Tendencias</string>
     <string name="Cerrar_sesion">Cerrar Sesion</string>
     <string name="RegistroIncompleto">Debes de registarte antes de acceder</string>
-    <string name="Permiso_concedido" >Permiso concedido </string>
-    <string name="Camera_permision_granted" >Permiso de camara concedido </string>
-    <string name="Camera_permision_denied" >Permiso de camara denegado </string>
 </resources>

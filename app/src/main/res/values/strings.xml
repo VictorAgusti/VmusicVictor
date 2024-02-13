@@ -13,29 +13,7 @@
     <string name="Tendencias">Trends</string>
     <string name="Cerrar_sesion">Log out</string>
     <string name="RegistroIncompleto">You must register before enter</string>
-    <string name="Beatles_cancion" translatable="false">The Beatles - Dont Let Me Down</string>
-    <string name="Rolling_cancion" translatable="false">The Rolling Stones- Miss You</string>
-    <string name="Queen_cancion" translatable="false">Queen - Dont Stop Me Now</string>
-    <string name="Frank_Sinatra_cancion" translatable="false">Frank Sinatra - My Way</string>
-    <string name="Amy_cancion" translatable="false">Amy Winehouse - Back To Black</string>
-    <string name="Nina_Simone_cancion" translatable="false">Nina Simone - Feeling Good</string>
-    <string name="McGraw_cancion" translatable="false">Tim McGraw - Humble And Kind</string>
-    <string name="Strait_cancion" translatable="false">George Strait - Troubadour</string>
-    <string name="Brooks_cancion" translatable="false">Garth Brooks - If Tomorrow Never Comes</string>
-    <string name="BadBunny_cancion" translatable="false">BAD BUNNY x JHAY CORTEZ - DÁKITI</string>
-    <string name="MykeTowers_cancion" translatable="false">Myke Towers - La Playa</string>
-    <string name="Mora_cancion" translatable="false">Mora - TUYO</string>
-    <string name="BobMarley_cancion" translatable="false">Bob Marley - Is This Love</string>
-    <string name="Shaggy_cancion" translatable="false">Shaggy - Boombastic</string>
-    <string name="Eminem_cancion" translatable="false">Eminem - Rap God</string>
-    <string name="Tupac_cancion" translatable="false">2Pac - Dear Mama</string>
-    <string name="cent_cancion" translatable="false">50 Cent - In Da Club </string>
-    <string name="Mozart_cancion" translatable="false">Las Diez Mejores Obras de Mozart </string>
-    <string name="Beethoven_cancion" translatable="false">Beethoven - Fur Elise </string>
-    <string name="Vivaldi_cancion" translatable="false">Primavera - Antonio Vivaldi </string>
-    <string name="Permiso_concedido">Permission alredy granted </string>
-    <string name="Camera_permision_granted">Camera Permission Granted </string>
-    <string name="Camera_permision_denied">Camera Permission Denied </string>
+
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="bad_credentials">Las credenciales no son correctas</string>
@@ -66,11 +44,9 @@
 
     <!-- Preference Titles -->
     <string name="messages_header">Messages</string>
-    <string name="sync_header">Sync</string>
 
-    <!-- Messages Preferences -->
-    <string name="signature_title">Your signature</string>
-    <string name="reply_title">Default reply action</string>
+
+
 
     <!-- Sync Preferences -->
     <string name="sync_title">Sync email periodically</string>
@@ -85,5 +61,6 @@
     <string name="vibrate_title">Vibrate on notifications</string>
     <string name="settings_menu">Settings</string>
     <string name="ChatColor">Chat color</string>
+    <string name="status">Estatus(Alive,Dead,unknown)</string>
 
 </resources>

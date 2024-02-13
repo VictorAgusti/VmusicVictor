@@ -11,7 +11,7 @@
         android:layout_marginStart="16dp"
         android:layout_marginTop="16dp"
         android:layout_marginEnd="16dp"
-        android:hint="Enter status (e.g., Alive, Dead, unknown)"
+        android:hint="@string/status"
         android:inputType="text"
         android:maxLines="1"
         android:singleLine="true" />
@@ -23,7 +23,7 @@
         android:layout_below="@id/statusEditText"
         android:layout_marginTop="8dp"
         android:layout_marginStart="16dp"
-        android:text="Search" />
+        android:text="@string/Buscar" />
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/recyclerView"
